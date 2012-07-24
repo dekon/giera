@@ -67,8 +67,8 @@ echo "<br>".$wynik;
 function Przeladuj()
 {
 //window.location.reload();
-window.location.replace('http://localhost:82/gra_liczbowa/gra.php');
-
+//window.location.replace('<?PHP $_SERVER['REQUEST_URL']. DIRECTORY_SEPARATOR . "gra.php" ?>');
+window.location.replace('http://simple-game.orchestra.io/gra.php');
 
 }
 
