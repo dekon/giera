@@ -68,7 +68,7 @@ function Przeladuj()
 {
 //window.location.reload();
 //window.location.replace('<?PHP $_SERVER['REQUEST_URL']. DIRECTORY_SEPARATOR . "gra.php" ?>');
-window.location.replace('http://simple-game.orchestra.io/gra.php');
+window.location.replace('http://gra-come-back.orchestra.io/gra.php');
 
 }
 
